@@ -14,7 +14,7 @@ blouse.
 sweater.
 shirt.
 
-%Facts
+% Facts
 
 person(rachel).
 person(monica).
