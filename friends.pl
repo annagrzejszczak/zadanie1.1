@@ -54,6 +54,7 @@ drinking2(reachel, chandler, ross).
 siblings(monica, ross).
 married(monica, chandler).
 
+
 % Rules
 
 who_is_standing_where :- standing(X,Y), format('~w is standing on the ~w side of the picture\n', [X,Y]), fail.
