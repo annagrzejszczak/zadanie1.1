@@ -38,7 +38,6 @@ who_is_holding_what :- accessories(Y), holding(X,Y), format('~w is holding a ~w\
 sides :- walking(X,Y), format('~w is walking on the ~w side \n', [X, Y]),fail.
 walks :- person(X), walks(X,Y), format('~w is walking in the ~w between the other women\n', [X,Y]), fail.
 
-places :- 
     
 description :- write('The picture presents three women walking: '),nl,
 	members;
