@@ -1,10 +1,10 @@
-%Atoms
+% Atoms
 
 woman1.
 woman2.
 woman3.
 
-%Facts
+% Facts
 
 person(woman1).
 person(woman2).
@@ -29,7 +29,7 @@ walks(woman2, middle).
 
 place(alley).
 
-%Rules
+% Rules
 
 members :- person(X), format(' ~w\n', [X]),fail.
 who_is_wearing_what :- wearing(X,Y,Z), format('~w is wearing ~w ~w\n', [X,Y,Z]), fail.
