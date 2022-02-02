@@ -45,6 +45,8 @@ description.
 
 # Obrazek 3 - women.
 
+Użyte reguły:
+
 members.
 who_is_wearing_what.
 who_is_holding_what.
