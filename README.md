@@ -5,7 +5,7 @@
 
 Opis wykonany jest w języku Prolog. Opisane zostały atomy, fakty oraz reguły.
 
-# Obrazek 1
+# Obrazek 1 - friends.
 
 Użyte reguły:
 
@@ -23,7 +23,7 @@ food.
 description.
 
 
-# Obrazek 2
+# Obrazek 2 - royalfamily.
 
 Użyte reguły:
 
@@ -43,7 +43,7 @@ married.
 description.
 
 
-# Obrazek 3
+# Obrazek 3 - women.
 
 members.
 who_is_wearing_what.
