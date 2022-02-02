@@ -109,6 +109,7 @@ standing(william, right).
 standing(beatrice, right).
 standing(henry, right).
 
+
 % Rules
 
 married(X,Y) :- parent(X,Z), parent(Y,Z), X \= Y.
